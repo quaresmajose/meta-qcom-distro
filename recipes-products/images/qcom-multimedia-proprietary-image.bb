@@ -14,7 +14,6 @@ CORE_IMAGE_BASE_INSTALL += " \
     camx-nhx \
     camx-talos \
     gst-plugins-imsdk-prop \
-    iris-video-dlkm \
     kgsl-dlkm \
     libdiag-bin \
     qcom-adreno \
